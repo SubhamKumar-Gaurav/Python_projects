@@ -6,6 +6,7 @@ print('''
 * multiply 
 / 
 ''')
+print("Meow")
 
 num1 = int(input("Enter the 1st value : "))
 num2 = int(input("Enter the 2nd value : "))
